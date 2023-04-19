@@ -1,0 +1,6 @@
+print("Hello World")
+print(5)
+print(7+10)
+print(30-3)
+print(786/2)
+print(102*2)
